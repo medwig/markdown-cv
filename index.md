@@ -1,91 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jonathan Medwig's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonathan Medwig
+Highly adaptable data engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jonmedwig@gmail.com">jonmedwig@gmail.com</a>
+| <a href="https://github.com/medwig">My Github</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- AWS, Serverless Framework, Terraform
+- Python, SQL, NoSQL, HCL
+- Sceptre, CircleCI, ElasticSearch, Kibana, Lambda, MetaBase, OpenAPI
+- Postgres, MySQL, DynamoDB, Oracle, Hive, Hadoop
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017-2019`
+Data Engineer - __Skywatch__
 
-- Warden
-- Minted coins
+Second hire at a rapidly growing startup. Fully serverless AWS stack. I've played a wide range of roles:
+- *Data Engineer*
+    - Optimized PostGres database to reduce query times from several-second to sub-second
+    - Built a varietry of internal microservices on Serverless Framework / DynamoDB stack
+- *Software Engineer*
+    - Lead developer creating and maintaining our user-facing REST API. Instituted design-first api model to fix existing docs conformance issues
+    - Built a python metrics and log-centralization framework allowing devs to easily log metrics in code -> AWS lambda -> ElasticSearch
+- *DevOps*
+    - Pioneered Infratructure as Code initiative, owner of infra project and CI/CD
+    - Manage IAM user and group permissions
+
+`2013-2016`
+World Travel
+
+- Learned Spanish riding a motorcycle across South America
+- Started a Nepal charity project feeding schoolchildren in an impoverished region
+
+
+`2012-2013`
+Data Engineer - __Facebook__
+
+- Embedded with anaylst teams, built pipelines on the world's largest Hadoop cluster
+- Built a widely-used anomaly-detection framework
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
 
 
+## Education
+
+`2011`
+__B.A.Sc. Nanotechnology Engineering, University of Waterloo__
+
+
+## Talks
+
+`2017`
+__DataEngConf NYC__\
+Serverless Data Engineering: What We’ve Learned Along the Way
+
+`2013`
+__Facebook Engineering Conference__\
+Anomaly Detection in ETL Pipelines
+
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2019 -->
 
 
