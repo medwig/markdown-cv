@@ -32,7 +32,7 @@ Second hire at a rapidly growing startup. Fully serverless AWS stack. I've playe
     - Manage IAM user and group permissions in multi-account-deployment AWS organization
 
 `2013-2016`
-World Travel
+World Travel - __East Asia & Latin America__
 
 - Learned Spanish riding a motorcycle across South America
 - Started a Nepal charity project feeding schoolchildren in an impoverished region
