@@ -9,10 +9,10 @@ Highly adaptable data engineer
 
 ### Specialized in
 
-- AWS, Cloud Infra, Serverless Framework, Terraform
-- Python, SQL, NoSQL, HCL
-- Sceptre, CircleCI, ElasticSearch, Kibana, Lambda, MetaBase, OpenAPI
-- Postgres, MySQL, DynamoDB, Oracle, Hive, Hadoop
+- AWS, Lambda, Cloud Infra, Serverless Framework, Terraform, Docker
+- Python, SQL, NoSQL, HCL, HiveQL
+- Sceptre, CircleCI, ElasticSearch, Kibana, MetaBase, OpenAPI
+- Postgres, MySQL, DynamoDB, Oracle, Hadoop 
 
 
 ## Occupation
