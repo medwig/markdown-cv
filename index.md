@@ -3,7 +3,7 @@ Highly adaptable data engineer
 
 <div id="webaddress">
 <a href="jonmedwig@gmail.com">jonmedwig@gmail.com</a>
-| <a href="https://github.com/medwig">My Github</a>
+| <a href="https://github.com/medwig">github.com/medwig</a>
 </div>
 
 
