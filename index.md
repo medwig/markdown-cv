@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Jonathan Medwig's CV
+---
 # Jonathan Medwig
 Highly adaptable data engineer
 
@@ -6,42 +10,43 @@ Highly adaptable data engineer
 | <a href="https://github.com/medwig">github.com/medwig</a>
 </div>
 
+## Specializations
 
-### Specialized in
-
-- AWS, Lambda, Cloud Infra, Serverless Framework, Terraform, Docker
-- Python, SQL, NoSQL, HCL, HiveQL
-- Sceptre, CircleCI, ElasticSearch, Kibana, MetaBase, OpenAPI
-- Postgres, MySQL, DynamoDB, Oracle, Hadoop 
+- AWS, Serverless Framework, Terraform, Docker
+- Python, SQL, NoSQL, HiveQL
+- CircleCI, ElasticSearch, Kibana, Auth0, OpenAPI
+- Postgres, Hadoop, MySQL, DynamoDB, Oracle
 
 
 ## Occupation
 
 `2017-2019`
-Data Engineer - __Skywatch__
+__Data Engineer - Skywatch__
 
-Second hire at a rapidly growing startup. Fully serverless AWS stack. I've played a wide range of roles:
+Second hire at a rapidly growing startup. Fully serverless AWS stack. I've played a wide range of roles:<br><br>
 - *Data Engineer*
-    - Optimized PostGres database to reduce query times from several-second to sub-second
-    - Built a varietry of internal microservices on Serverless Framework / DynamoDB stack
+    - Optimized Postgres database, reducing query times to subsecond
+    - Built our centralized logging framework with ElasticSearch
+
 - *Software Engineer*
-    - Lead developer creating and maintaining our user-facing REST API
-    - Built a metrics and log-centralization framework: python -> AWS lambda -> ElasticSearch
+    - Led the user-facing REST API dev team
+    - Built microservices with AWS & Serverless Framework
+
 - *DevOps*
-    - Pioneered Infratructure as Code initiative, owner of infra project and CI/CD
-    - Manage IAM user and group permissions in multi-account-deployment AWS organization
+    - Pioneered Infratructure as Code with Terraform & Serverless
+    - Manage IAM users & roles in multi-account AWS org
+    - Owner of terraform infra, CI/CD, docker repo
 
 `2013-2016`
-World Travel - __East Asia & Latin America__
-
+__World Travel - East Asia & Latin America__
 - Learned Spanish riding a motorcycle across South America
-- Started a Nepal charity project feeding schoolchildren in an impoverished region
+- Started a school lunch program charity project in Nepal
 
 `2012-2013`
-Data Engineer - __Facebook__
-
-- Embedded with anaylst teams, built pipelines on the world's largest Hadoop cluster
-- Built a widely-used anomaly-detection framework
+__Data Engineer - Facebook__
+- Embedded with search team working closely with analysts
+- Built ETL pipelines on the world's largest Hadoop cluster
+- Created a widely-used anomaly-detection framework
 
 
 ## Education
@@ -53,15 +58,11 @@ __B.A.Sc. Nanotechnology Engineering, University of Waterloo__
 ## Talks
 
 `2017`
-__DataEngConf NYC__ -
-*Serverless Data Engineering: What We’ve Learned Along the Way*
+__DataEngConf NYC__ *Serverless Data Engineering: What We’ve Learned Along the Way*
 
 `2013`
-__Facebook Engineering Conference__ -
-*Anomaly Detection in ETL Pipelines*
+__Facebook Engineering Conference__ *Anomaly Detection in ETL Pipelines*
 
 <!-- ### Footer
 
-Last updated: April 2019 -->
-
-
+Last updated: August 2019 -->
